@@ -1,6 +1,10 @@
 # Task2_1
 
+
 conflict line master
+
+conflict line from develop
+
 
 add line for rebase (develop branch)
 
