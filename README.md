@@ -12,3 +12,5 @@ add from master line
 line second
 
 develop branch
+
+new line before rebase (master)
