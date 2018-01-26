@@ -1,5 +1,7 @@
 # Task2_1
 
+conflict line master
+
 add line for rebase (develop branch)
 
 develop commit
