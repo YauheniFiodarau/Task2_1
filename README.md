@@ -6,6 +6,9 @@ develop commit
 
 line first
 
+add from master line
+
+
 line second
 
 develop branch
